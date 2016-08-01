@@ -10,3 +10,6 @@ C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab2\GenericApp\GenericApp\obj\De
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab2\GenericApp\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab2\GenericApp\GenericApp\bin\Debug\GenericApp.exe
 C:\Users\Alex\Desktop\CodeValue\Labes\Advanced\Lab2\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Alex Kohatzki\HomeWork3\Lab2\Lab2.2\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Alex Kohatzki\HomeWork3\Lab2\Lab2.2\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Repo\Alex Kohatzki\HomeWork3\Lab2\Lab2.2\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
